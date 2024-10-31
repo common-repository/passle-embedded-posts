@@ -1,0 +1,69 @@
+@CHARSET "UTF-8";
+
+/* Passle Embedded Posts Plugin In Front-End
+-------------------------------------------------------------- */
+
+/* Post Author's Name */
+
+.passle-shortcode .wall-post-header .post-info .post-author strong
+{
+	/* Example. Uncomment it to see in action. */
+	/*
+	color: #FF0000;
+	*/
+}
+
+/* Post Date */
+
+.passle-shortcode .wall-post-header .post-info .time-since-posting-display
+{
+	/* Example. Uncomment it to see in action. */
+	/*
+	color: #00FF00;
+	*/
+}
+
+/* Post Title */
+
+.passle-shortcode .wall-post-body .wp-plugin-post-title
+{
+	/* Example. Uncomment it to see in action. */
+	/*
+	color: #0000FF;
+	*/
+}
+
+/* Post Text */
+
+.passle-shortcode .wall-post-body .wall-post-text p
+{
+	/* Example. Uncomment it to see in action. */
+	/*
+	color: #FF00FF;
+	*/
+}
+
+/* Post "Read More" Button In Normal State */
+
+.passle-shortcode .wall-post-body .wall-post-text a.post-read-more-btn
+{
+	/* Example. Uncomment it to see in action. */
+	/*
+	color: #00FFFF;
+	border: 1px solid #00FFFF;
+	border-radius: 0px;
+	*/
+}
+
+/* Post "Read More" Button On Hover */
+
+.passle-shortcode .wall-post-body .wall-post-text a.post-read-more-btn:hover
+{
+	/* Example. Uncomment it to see in action. */
+	/*
+	background: #FFFF00;
+	*/
+}
+
+/* End - Passle Embedded Posts Plugin In Front-End
+-------------------------------------------------------------- */
